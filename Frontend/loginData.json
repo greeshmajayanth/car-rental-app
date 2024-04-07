@@ -1,0 +1,58 @@
+[
+  {
+    "firstName": "Dhanush",
+    "lastName": "Raj",
+    "email": "dr@gmail.com",
+    "password": "dr123",
+    "userRole": "Tenant"
+  },
+  {
+    "firstName": "Greeshma",
+    "lastName": "Jayanth",
+    "email": "gj@gmail.com",
+    "password": "gj123",
+    "userRole": "customer"
+  },
+  {
+    "firstName": "Arvind",
+    "lastName": "Raman",
+    "email": "ar@gmail.com",
+    "password": "ar123",
+    "userRole": "customer"
+  },
+  {
+    "firstName": "John",
+    "lastName": "M",
+    "email": "jm@gmail.com",
+    "password": "jm123",
+    "userRole": "customer"
+  },
+  {
+    "firstName": "John",
+    "lastName": "S",
+    "email": "js@gmail.com",
+    "password": "js123",
+    "userRole": "customer"
+  },
+  {
+    "firstName": "Jahanvi",
+    "lastName": "Patel",
+    "email": "jp@gmail.com",
+    "password": "cust@123",
+    "userRole": "customer"
+  },
+  {
+    "firstName": "Shamitha",
+    "lastName": "Priya",
+    "email": "sp@gamil.com",
+    "password": "cust@123",
+    "userRole": "customer"
+  },
+  {
+    "firstName": "Farnaz",
+    "lastName": "j",
+    "email": "fj@gmail.com",
+    "password": "cust@123",
+    "userRole": "customer"
+  }
+]

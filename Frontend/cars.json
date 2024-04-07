@@ -1,0 +1,92 @@
+{
+  "Compact": [
+    {
+      "Available period": "2023-05-04 to 2023-05-10",
+      "Car Type": "Compact",
+      "Model": "Honda Civic",
+      "Vehicle Id": 1003,
+      "Year": 2021
+    },
+    {
+      "Available period": "2023-05-19 to 2023-05-25",
+      "Car Type": "Compact",
+      "Model": "Ford Focus",
+      "Vehicle Id": 1008,
+      "Year": 2022
+    },
+    {
+      "Available period": "2023-05-26 to 2023-06-01",
+      "Car Type": "Compact",
+      "Model": "Chevrolet Cruze",
+      "Vehicle Id": 1012,
+      "Year": 2020
+    },
+    {
+      "Available period": "2023-04-26 to 2023-05-03",
+      "Car Type": "Compact",
+      "Model": "Toyota Corolla",
+      "Vehicle Id": 1001,
+      "Year": 2020
+    },
+    {
+      "Available period": "2023-05-11 to 2023-05-18",
+      "Car Type": "Compact",
+      "Model": "Nissan Sentra",
+      "Vehicle Id": 1006,
+      "Year": 2019
+    }
+  ],
+  "Medium": [
+    {
+      "Available period": "2023-05-04 to 2023-05-30",
+      "Car Type": "Medium",
+      "Model": "Honda Accord",
+      "Vehicle Id": 1005,
+      "Year": 2022
+    },
+    {
+      "Available period": "2023-06-01 to 2023-06-15",
+      "Car Type": "Medium",
+      "Model": "Toyota Camry",
+      "Vehicle Id": 1007,
+      "Year": 2021
+    },
+    {
+      "Available period": "2023-06-16 to 2023-06-30",
+      "Car Type": "Medium",
+      "Model": "Nissan Altima",
+      "Vehicle Id": 1010,
+      "Year": 2020
+    },
+    {
+      "Available period": "2023-07-01 to 2023-07-15",
+      "Car Type": "Medium",
+      "Model": "Ford Fusion",
+      "Vehicle Id": 1013,
+      "Year": 2022
+    },
+    {
+      "Available period": "2023-07-16 to 2023-07-31",
+      "Car Type": "Medium",
+      "Model": "Chevrolet Malibu",
+      "Vehicle Id": 1016,
+      "Year": 2021
+    }
+  ],
+  "SUV": [
+    {
+      "Available period": "2023-06-01 to 2023-06-15",
+      "Car Type": "SUV",
+      "Model": "Chevrolet Tahoe",
+      "Vehicle Id": 1011,
+      "Year": 2022
+    },
+    {
+      "Available period": "2023-07-05 to 2023-07-20",
+      "Car Type": "SUV",
+      "Model": "Nissan Armada",
+      "Vehicle Id": 1013,
+      "Year": 2023
+    }
+  ]
+}
